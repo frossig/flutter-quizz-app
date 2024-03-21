@@ -5,7 +5,7 @@ Features
 
     Multiple-choice questions on various topics
     User-friendly interface
-    Real-time tracking of correct answers
+    Real-time tracking of correct answers 
     Results screen displaying answered questions and correct answers
 
 
@@ -13,19 +13,19 @@ Features
 
 1. Clone this repository to your local machine.
 
-git clone https://github.com/yourusername/flutter-quiz-app.git
+         git clone https://github.com/yourusername/flutter-quiz-app.git
 
 2. Navigate to the project directory.
 
-cd flutter-quiz-app
+        cd flutter-quiz-app
 
 3. Install dependencies using Flutter's package manager, pub.
 
-flutter pub get
+        flutter pub get
 
 4. Run the app on a connected device or emulator.
 
-    flutter run
+        flutter run
 
 ## Usage
 
